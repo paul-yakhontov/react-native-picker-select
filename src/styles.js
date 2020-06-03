@@ -45,7 +45,7 @@ export const defaultStyles = StyleSheet.create({
         borderColor: '#007aff',
     },
     done: {
-        color: '#007aff',
+        color: '#fff',
         fontWeight: '600',
         fontSize: 17,
         paddingTop: 1,
@@ -59,7 +59,7 @@ export const defaultStyles = StyleSheet.create({
         backgroundColor: '#d0d4da',
     },
     placeholder: {
-        color: '#c7c7cd',
+        color: '#fff',
     },
     headlessAndroidPicker: {
         position: 'absolute',
